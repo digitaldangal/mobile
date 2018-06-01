@@ -1,1 +1,1 @@
-const GOOGLE_API_KEY = your_google_api_key;
+const GOOGLE_API_KEY = "AIzaSyDZ9_HX7CGLJrdVR6uP0fnQ3w0LDE-Tlnk";
